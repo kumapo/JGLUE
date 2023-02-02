@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-transformers = {git = "https://github.com/kumapo/transformers-4.9.2.git"}
+transformers = {ref = "0f494baa62f08ac0e138d3ffeb2d9762cd06bf3c", git = "https://github.com/kumapo/transformers-4.9.2.git"}
 # accelerate = "*"
 # datasets = ">=1.8.0"
 sentencepiece = "!=0.1.92"

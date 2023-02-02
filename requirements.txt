@@ -13,7 +13,7 @@ charset-normalizer==3.0.1
 click==8.1.3; python_version >= '3.7'
 filelock==3.9.0; python_version >= '3.7'
 fugashi==1.2.0
-git+https://github.com/kumapo/transformers-4.9.2.git@b9d3e7e23aeb3580d4956347b51b966d480c8e5c#egg=transformers
+git+https://github.com/kumapo/transformers-4.9.2.git@0f494baa62f08ac0e138d3ffeb2d9762cd06bf3c#egg=transformers
 google-auth-oauthlib==0.4.6; python_version >= '3.6'
 google-auth==2.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'
 grpcio==1.51.1; python_version >= '3.7'
@@ -36,7 +36,7 @@ requests==2.28.2; python_version >= '3.7' and python_version < '4'
 rsa==4.9; python_version >= '3.6'
 sacremoses==0.0.53
 sentencepiece==0.1.97
-six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'
+six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 tensorboard-data-server==0.6.1; python_version >= '3.6'
 tensorboard-plugin-wit==1.8.1
 tensorboard==2.11.2
@@ -48,4 +48,4 @@ unidic-lite==1.0.8
 urllib3==1.26.14; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'
 werkzeug==2.2.2; python_version >= '3.7'
 wheel==0.38.4; python_version >= '3.7'
-zipp==3.11.0; python_version >= '3.7'
+zipp==3.12.0; python_version >= '3.7'
