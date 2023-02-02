@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "title": "梅雨",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "日本で梅雨がないのは北海道とどこか。",
+              "id": "a10336p0q0",
+              "answers": [
+                {
+                  "text": "小笠原諸島",
+                  "answer_start": 25
+                },
+                {
+                  "text": "小笠原諸島を除く日本",
+                  "answer_start": 25
+                },
+                {
+                  "text": "小笠原諸島",
+                  "answer_start": 25
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "梅雨とは何季の一種か?",
+              "id": "a10336p0q1",
+              "answers": [
+                {
+                  "text": "雨季",
+                  "answer_start": 121
+                },
+                {
+                  "text": "雨季",
+                  "answer_start": 121
+                },
+                {
+                  "text": "雨季",
+                  "answer_start": 121
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "梅雨は、世界的にどのあたりで見られる気象ですか？",
+              "id": "a10336p0q2",
+              "answers": [
+                {
+                  "text": "東アジアの広範囲",
+                  "answer_start": 71
+                },
+                {
+                  "text": "東アジアの広範囲",
+                  "answer_start": 71
+                },
+                {
+                  "text": "東アジア",
+                  "answer_start": 71
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "梅雨がみられるのはどの期間？",
+              "id": "a10336p0q3",
+              "answers": [
+                {
+                  "text": "5月から7月にかけて",
+                  "answer_start": 96
+                },
+                {
+                  "text": "5月から7月にかけて",
+                  "answer_start": 96
+                },
+                {
+                  "text": "5月から7月",
+                  "answer_start": 96
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "梅雨 [SEP] 梅雨（つゆ、ばいう）は、北海道と小笠原諸島を除く日本、朝鮮半島南部、中国の南部から長江流域にかけての沿海部、および台湾など、東アジアの広範囲においてみられる特有の気象現象で、5月から7月にかけて来る曇りや雨の多い期間のこと。雨季の一種である。"
+        }
+      ]
+    }
+  ]
+}
